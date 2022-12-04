@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module"             : "commonjs",
+        "target"             : "ES2021",
+        "jsx"                : "preserve",
+        "strictFunctionTypes": true,
+        "strict"             : true,
+        "esModuleInterop"    : true,
+        "moduleResolution"   : "Node"
+    },
+    "exclude": [
+        "node_modules",
+        "**/node_modules/*"
+    ]
+}

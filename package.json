@@ -1,0 +1,34 @@
+{
+    "name"       : "windows-96-local-2.0",
+    "version"    : "2.0.0",
+    "description": "Windows 96 local but it actually works",
+    "main"       : "rofs downloader.js",
+    "scripts"    : {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "windows 96",
+        "w96",
+        "windows 96 local"
+    ],
+    "author"      : "NanderTGA (https://nandertga.ddns.net)",
+    "license"     : "MIT",
+    "dependencies": {
+        "@babel/core"                : "^7.17.12",
+        "@babel/preset-env"          : "^7.17.12",
+        "@rollup/plugin-commonjs"    : "^22.0.1",
+        "@rollup/plugin-node-resolve": "^13.3.0",
+        "@types/babel-core"          : "^6.25.7",
+        "axios"                      : "^0.27.2",
+        "core-js"                    : "^3.22.5",
+        "form-data"                  : "^4.0.0",
+        "jszip"                      : "^3.10.0",
+        "node-downloader-helper"     : "^2.1.1",
+        "regenerator-runtime"        : "^0.13.9",
+        "rollup"                     : "^2.73.0",
+        "typescript"                 : "^4.6.4"
+    },
+    "devDependencies": {
+        "@types/babel__core": "^7.1.19"
+    }
+}
