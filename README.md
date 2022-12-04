@@ -10,7 +10,7 @@ They had me take down 1.0, which was buggy anyways,
 
 but now I am releasing the better (working) version.
 
-No bugs, no weird crashing server script, now you can just download everything in one command, and host it using any web server.
+No bugs, no weird crashing server script, now you can just download everything in one command, and host it using any web server!
 
 **Have fun messing with Windows 96!**
 
