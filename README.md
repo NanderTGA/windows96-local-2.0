@@ -36,3 +36,5 @@ Even if you rehost *and* add some value, <ins>you could still get a DMCA</ins> f
 3. Run `node "rofs downloader.js" https://windows96.net` to start downloading.
 
 4. Wait until you see `Done` in the console.
+
+5. Start a local web server to use your local copy (e.g. `php -S 127.0.0.1:3000` or `npx http-server`)
