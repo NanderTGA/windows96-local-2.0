@@ -1,17 +1,4 @@
 # windows96-local-2.0
-## The infamous windows 96 downloader!
-
-
-They don't want you to see this.
-
-They don't want this to be public.
-
-They had me take down 1.0, which was buggy anyways,
-
-but now I am releasing the better (working) version.
-
-No bugs, no weird crashing server script, now you can just download everything in one command, and host it using any web server!
-
 **Have fun messing with Windows 96!**
 
 ## ⚠Disclaimer⚠
