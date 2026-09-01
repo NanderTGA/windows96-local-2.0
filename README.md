@@ -34,3 +34,9 @@ node --dns-result-order=ipv4first "rofs downloader.js" https://windows96.net
 4. Wait until you see `Done` in the console.
 
 5. Start a local web server to use your local copy (e.g. `php -S 127.0.0.1:3000` or `npx http-server`)
+
+## Recommended Environment
+
+**Linux is recommended** for running this project, preferably with NVM (Node Version Manager) to manage Node.js versions.
+Using NVM makes it easier to install and switch between Node.js versions if compatibility issues occur.
+**Note:** Windows and other operating systems may work, but Linux with NVM is the recommended setup.
