@@ -20,7 +20,7 @@ If you are running this project on modern Node.js versions (Node 18+ / Node 26+)
 ### 1. Network / DNS Issues (IPv6 Fallback)
 If the ROFS downloader fails with an `ETIMEDOUT` or `ENETUNREACH` error, force Node to prioritize IPv4 during asset downloads:
 ```bash
-node --dns-result-order=ipv4first "rofs downloader.js" [https://windows96.net](https://windows96.net)
+node --dns-result-order=ipv4first "rofs downloader.js" https://windows96.net
 ```
 
 ## How do I download windows 96 using this?
