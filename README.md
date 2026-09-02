@@ -37,7 +37,7 @@ node --dns-result-order=ipv4first "rofs downloader.js" https://windows96.net
 
 ## Recommended Environment
 
-**Linux is recommended** for running this project, preferably with NVM (Node Version Manager) to manage Node.js versions.
+**Linux or Windows is recommended** for running this project, preferably with Node.JS installed.
 
 Using NVM makes it easier to install and switch between Node.js versions if compatibility issues occur.
 
